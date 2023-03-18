@@ -1,4 +1,5 @@
-//WAP to read 10 elements form the user and display them using an array !!!
+//WAP to read 10 elements form the user and display them using an array !!!   
+
 
 #include<stdio.h>
 #include<conio.h>
