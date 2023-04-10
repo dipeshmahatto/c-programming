@@ -45,7 +45,7 @@ int main(){
 		}
 		printf("\n");
 	}
-	getch();
-	return 0;	
 }
+getch();
+	return 0;	
 }

@@ -25,5 +25,9 @@ int main(){
 			printf("%d\t",sum[i][j]);
 			
 			}
+			printf("\n");
 		}
+		
+		getch();
+		return 0;
 	}

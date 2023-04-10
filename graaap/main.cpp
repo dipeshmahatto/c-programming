@@ -38,8 +38,8 @@ int main()
 //	settextstyle(5,0,4);
 //	outtextxy(100,200,"Hello Everyone");
 	
-//	circle(100,200,100);
-//	outtextxy(100,200,"BCA");
+	circle(100,200,100);
+	outtextxy(100,200,"BCA");
 	
 	getch();
 	closegraph();

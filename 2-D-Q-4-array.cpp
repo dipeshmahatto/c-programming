@@ -28,9 +28,9 @@ int main(){
 	}
 	
 	if (f==1){
-		printf("Identical");
+		printf("NOT Identical");
 	} else{
-		printf("Not identical");
+		printf("identical");
 	}
 	
 }
