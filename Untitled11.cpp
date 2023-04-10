@@ -45,8 +45,7 @@ int main(){
 	printf("The records in descending order are:\n");
 	
 	
-	for(i=0;i<100
-	;i++){
+	for(i=0;i<100;i++){
 		printf("Title = %s\t ",p[i]->title);
 		printf("Id= %d\t",p[i]->bid);
 		printf("Price=%f\t",p[i]->price);
